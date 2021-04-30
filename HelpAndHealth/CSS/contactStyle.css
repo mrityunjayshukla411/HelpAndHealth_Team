@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to right, #170537, #361267, #5d1999, #8b1acc, #bf09ff);
+    /* background-image: linear-gradient(to right, #053137, #003655, #003779, #003095, #3e0098); */
+}
+.navbar{
+    background-image: linear-gradient(to right, #170537, #361267, #5d1999, #8b1acc, #bf09ff);
+    /* background-image: linear-gradient(to right, #053137, #003655, #003779, #003095, #3e0098); */
+}
+#h1{
+    color: rgb(179, 17, 98);
+}
+#textFirst{
+    color: rgb(179, 17, 98);
+}
+#textLast{
+    color: rgb(179, 17, 98);
+}
+#textEmail{
+    color: rgb(179, 17, 98);
+}
+#textQuery{
+    color: rgb(179, 17, 98);
+}
+#textPhone{
+    color: rgb(179, 17, 98);
+}
+#textAddress{
+    color: rgb(179, 17, 98);
+}
+#textQuery{
+    color: rgb(179, 17, 98);
+}
+#textText{
+    color: rgb(179, 17, 98);
+}
